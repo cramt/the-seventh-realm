@@ -2,11 +2,10 @@
 title: rayoch
 description: empty
 authors: cramt
-categories: [
-planet
-growth
-instability
-]
+categories:
+- planet
+- growth
+- instability
 created: 2025-01-13T19:22:53+0100
 updated: 2025-01-13T19:22:53+0100
 version: 1.1.1

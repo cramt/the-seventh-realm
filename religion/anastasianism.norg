@@ -2,10 +2,9 @@
 title: anastasianism
 description: empty
 authors: cramt
-categories: [
-religion
-decay
-]
+categories:
+- religion
+- decay
 created: 2025-01-18T18:12:39+0100
 updated: 2025-01-18T18:12:39+0100
 version: 1.1.1

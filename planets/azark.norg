@@ -2,11 +2,10 @@
 title: azark
 description: empty
 authors: cramt
-categories: [
-planet
-discord
-isolationism
-]
+categories:
+- planet
+- discord
+- isolationism
 created: 2025-01-13T17:25:29+0100
 updated: 2025-01-13T17:25:29+0100
 version: 1.1.1
